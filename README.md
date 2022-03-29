@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sageanicholson
 - 👀 I’m interested in: 
-  - PI, and web applications
+  - APIs, and web applications
   - C#, and C++, for backend, desktop, and making games
   - Dart for working with Flutter on mobile applications
   - Java for nostalgia
