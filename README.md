@@ -8,7 +8,7 @@
   - Python for the same reason as Go
   - JavaScript/TypeScript for making SPAs and PWAs
   - JavaScript for making web games
-  - ARMv6 Assebly for the Raspberry Pi
+  - ARMv6 Assembly for the Raspberry Pi
   - And some others which I have tried...
 - 🌱 I’m currently learning:
   - Front-end Web Frameworks
