@@ -6,7 +6,7 @@
   - Java for nostalgia
   - Go for APIs, and making tools
   - Python for the same reason as Go
-  - Java/TypeScript for making SPAs and PWAs
+  - JavaScript/TypeScript for making SPAs and PWAs
   - JavaScript for making web games
   - ARMv6 Assebly for the Raspberry Pi
   - And some others which I have tried...
